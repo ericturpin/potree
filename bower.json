@@ -6,6 +6,7 @@
     "js/potree.js"
   ],
   "ignore": [
+    "npm-debug.log"
   ],
   "authors": [
     "Turpin <eric.turpin@delair-tech.com>"
